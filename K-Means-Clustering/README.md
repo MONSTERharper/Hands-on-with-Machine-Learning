@@ -6,7 +6,7 @@ K-means clustering is a method of vector quantization, originally from signal pr
 ### Correlation plot
 ![corrplot-error](/K-Means-Clustering/images/corrplot.png)
 
-### Distribution plot
+### Distribution plots
 ![dist-error](/K-Means-Clustering/images/K-means_dist.png)
 
 ### Class balance
