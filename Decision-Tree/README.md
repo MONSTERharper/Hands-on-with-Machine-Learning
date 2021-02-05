@@ -10,4 +10,4 @@ It is one way to display an algorithm that only contains conditional control sta
 ![corrplot-error](/Decision-Tree/images/corrplot.png)
 
 ### Code
-![dtree-error](/Decision-Tree/images/1.PNG)
+![code-error](/Decision-Tree/images/1.PNG)
